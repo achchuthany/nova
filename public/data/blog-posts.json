@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Building Scalable Student Information Systems: Lessons Learned",
+      "excerpt": "A deep dive into architectural decisions, performance optimizations, and user experience considerations when building enterprise-grade educational platforms.",
+      "slug": "building-scalable-student-information-systems",
+      "date": "2023-08-15",
+      "readingTime": 8,
+      "category": "Software Engineering",
+      "tags": ["PHP", "MySQL", "System Architecture", "Performance"],
+      "image": "/images/blog/sis-architecture.jpg",
+      "url": "https://blog.achchuthan.lk/building-scalable-student-information-systems"
+    },
+    {
+      "id": 2,
+      "title": "Modern Web Development: From Traditional to JAMstack",
+      "excerpt": "Exploring the evolution of web architectures and why modern approaches like JAMstack are revolutionizing how we build web applications.",
+      "slug": "modern-web-development-jamstack",
+      "date": "2023-06-22",
+      "readingTime": 6,
+      "category": "Web Development",
+      "tags": ["JAMstack", "Next.js", "Performance", "Web Technologies"],
+      "image": "/images/blog/jamstack.jpg",
+      "url": "https://blog.achchuthan.lk/modern-web-development-jamstack"
+    },
+    {
+      "id": 3,
+      "title": "Database Optimization Techniques for High-Traffic Applications",
+      "excerpt": "Practical strategies for optimizing database performance, from indexing strategies to query optimization and caching techniques.",
+      "slug": "database-optimization-techniques",
+      "date": "2023-05-10",
+      "readingTime": 10,
+      "category": "Database",
+      "tags": ["MySQL", "PostgreSQL", "Performance", "Optimization"],
+      "image": "/images/blog/database-optimization.jpg",
+      "url": "https://blog.achchuthan.lk/database-optimization-techniques"
+    },
+    {
+      "id": 4,
+      "title": "Teaching Software Engineering in the Age of AI",
+      "excerpt": "How AI tools like GitHub Copilot are changing software engineering education and what it means for educators and students.",
+      "slug": "teaching-software-engineering-ai-era",
+      "date": "2023-04-18",
+      "readingTime": 7,
+      "category": "Education",
+      "tags": ["Teaching", "AI", "Software Engineering", "Education Technology"],
+      "image": "/images/blog/ai-education.jpg",
+      "url": "https://blog.achchuthan.lk/teaching-software-engineering-ai-era"
+    },
+    {
+      "id": 5,
+      "title": "Building RESTful APIs with Laravel: Best Practices",
+      "excerpt": "A comprehensive guide to designing and implementing robust, scalable RESTful APIs using Laravel framework.",
+      "slug": "restful-apis-laravel-best-practices",
+      "date": "2023-03-05",
+      "readingTime": 9,
+      "category": "Backend Development",
+      "tags": ["Laravel", "PHP", "APIs", "Best Practices"],
+      "image": "/images/blog/laravel-api.jpg",
+      "url": "https://blog.achchuthan.lk/restful-apis-laravel-best-practices"
+    },
+    {
+      "id": 6,
+      "title": "React Performance Optimization: Tips and Tricks",
+      "excerpt": "Proven techniques to improve React application performance, from code splitting to memoization and virtual DOM optimization.",
+      "slug": "react-performance-optimization",
+      "date": "2023-02-14",
+      "readingTime": 8,
+      "category": "Frontend Development",
+      "tags": ["React", "JavaScript", "Performance", "Optimization"],
+      "image": "/images/blog/react-performance.jpg",
+      "url": "https://blog.achchuthan.lk/react-performance-optimization"
+    }
+  ]
+}

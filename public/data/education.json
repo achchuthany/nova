@@ -1,0 +1,59 @@
+{
+  "education": [
+    {
+      "id": 1,
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of Jaffna",
+      "location": "Jaffna, Sri Lanka",
+      "startDate": "2010-01",
+      "endDate": "2014-12",
+      "gpa": "First Class Honours",
+      "description": "Comprehensive undergraduate program covering software engineering, algorithms, database systems, computer networks, and theoretical computer science.",
+      "achievements": [
+        "Graduated with First Class Honours",
+        "Dean's List for Academic Excellence",
+        "Best Capstone Project Award",
+        "Active member of Computer Science Society"
+      ]
+    },
+    {
+      "id": 2,
+      "degree": "Master of Science in Information Technology",
+      "institution": "University of Moratuwa",
+      "location": "Moratuwa, Sri Lanka",
+      "startDate": "2015-01",
+      "endDate": "2017-12",
+      "gpa": "Distinction",
+      "description": "Advanced postgraduate program focusing on enterprise system architecture, software project management, advanced database concepts, and research methodologies.",
+      "achievements": [
+        "Completed with Distinction",
+        "Research focus on Educational Technology Systems",
+        "Published thesis on Student Information Systems",
+        "Graduate Teaching Assistant for Database courses"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "date": "2022-06",
+      "credentialId": "AWS-XXXXX",
+      "validUntil": "2025-06"
+    },
+    {
+      "name": "Professional Scrum Master I (PSM I)",
+      "issuer": "Scrum.org",
+      "date": "2021-03",
+      "credentialId": "PSM-XXXXX",
+      "validUntil": null
+    },
+    {
+      "name": "MongoDB Certified Developer",
+      "issuer": "MongoDB University",
+      "date": "2020-11",
+      "credentialId": "MONGO-XXXXX",
+      "validUntil": null
+    }
+  ]
+}

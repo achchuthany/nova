@@ -1,0 +1,56 @@
+{
+  "experience": [
+    {
+      "id": 1,
+      "position": "IT Instructor",
+      "organization": "University of Jaffna",
+      "location": "Jaffna, Sri Lanka",
+      "startDate": "2018-01",
+      "endDate": null,
+      "current": true,
+      "type": "Academic",
+      "description": "Leading technical education initiatives, developing comprehensive curricula, and mentoring students in software engineering, database management, and web technologies. Spearheading digital transformation projects for university administration.",
+      "responsibilities": [
+        "Deliver engaging lectures on Software Engineering, Database Management Systems, Web Technologies, and System Analysis",
+        "Design and maintain comprehensive course syllabi aligned with industry standards",
+        "Mentor undergraduate students in capstone projects and research initiatives",
+        "Supervise and evaluate student performance through innovative assessment methods",
+        "Collaborate with faculty to enhance academic programs and curriculum development",
+        "Lead workshops and training sessions on emerging technologies",
+        "Contribute to departmental accreditation and quality assurance processes"
+      ],
+      "achievements": [
+        "Architected and implemented Student Information System serving 5000+ users",
+        "Maintained 95%+ student satisfaction rating across all courses",
+        "Published research papers on educational technology and system design",
+        "Mentored 100+ students in software development projects"
+      ]
+    },
+    {
+      "id": 2,
+      "position": "Software Engineer",
+      "organization": "Freelance / Contract",
+      "location": "Remote",
+      "startDate": "2015-06",
+      "endDate": null,
+      "current": true,
+      "type": "Technical",
+      "description": "Delivering high-quality software solutions for diverse clients, specializing in enterprise web applications, system integration, and database architecture. Building scalable, maintainable systems that solve complex business challenges.",
+      "responsibilities": [
+        "Architect and develop full-stack web applications using modern frameworks",
+        "Design and optimize database schemas for performance and scalability",
+        "Implement RESTful APIs and microservices architectures",
+        "Conduct code reviews and establish development best practices",
+        "Collaborate with stakeholders to gather requirements and deliver solutions",
+        "Provide technical consultation on system design and technology selection",
+        "Maintain and enhance existing applications with new features and optimizations"
+      ],
+      "achievements": [
+        "Delivered 20+ successful projects across education, healthcare, and e-commerce sectors",
+        "Achieved 99%+ uptime for mission-critical applications",
+        "Reduced operational costs by 60% through system automation",
+        "Maintained consistent 5-star client satisfaction ratings"
+      ]
+    }
+  ]
+}
