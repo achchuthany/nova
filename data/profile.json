@@ -1,0 +1,21 @@
+{
+  "name": "Yogarajah Achchuthan",
+  "title": "IT Instructor & Software Engineer",
+  "email": "achchuthany@univ.jfn.ac.lk",
+  "phone": "+94 XXX XXX XXX",
+  "location": "Jaffna, Sri Lanka",
+  "bio": {
+    "short": "IT Instructor at University of Jaffna with expertise in software engineering, enterprise system architecture, and educational technology. Passionate about bridging academic excellence with industry-relevant technical solutions.",
+    "long": "Passionate educator and software engineer with extensive experience in building scalable enterprise systems and mentoring the next generation of technology professionals. As an IT Instructor at the University of Jaffna, I combine deep technical expertise in full-stack development with a commitment to innovative pedagogy. My work spans from architecting complex student information systems to delivering comprehensive courses in software engineering, database management, and web technologies. I specialize in creating robust, user-centric applications while fostering technical excellence in academic environments."
+  },
+  "socialLinks": {
+    "linkedin": "https://linkedin.com/in/achchuthany",
+    "github": "https://github.com/achchuthany",
+    "twitter": "https://twitter.com/achchuthany",
+    "website": "https://www.achchuthan.lk",
+    "blog": "https://blog.achchuthan.lk"
+  },
+  "avatar": "/images/profile-photo.jpg",
+  "resume": "/documents/resume.pdf",
+  "tagline": "Software Engineer • Educator • System Architect"
+}

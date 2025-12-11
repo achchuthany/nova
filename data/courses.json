@@ -1,0 +1,121 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "code": "CS301",
+      "name": "Software Engineering",
+      "level": "Undergraduate",
+      "credits": 3,
+      "description": "Comprehensive coverage of software development lifecycle, design patterns, agile methodologies, and modern development practices. Students learn to architect, design, and implement large-scale software systems using industry-standard tools and frameworks.",
+      "learningOutcomes": [
+        "Understand and apply software engineering principles and best practices",
+        "Master object-oriented analysis and design techniques",
+        "Implement design patterns for robust, maintainable code",
+        "Practice agile development methodologies including Scrum and Kanban",
+        "Utilize version control systems and collaborative development workflows",
+        "Conduct comprehensive software testing and quality assurance",
+        "Document technical specifications and system architectures"
+      ],
+      "topics": [
+        "Software Development Lifecycle (SDLC)",
+        "Requirements Analysis and Specification",
+        "Object-Oriented Design and UML",
+        "Design Patterns and Architectural Styles",
+        "Agile and Scrum Methodologies",
+        "Version Control with Git",
+        "Software Testing Strategies",
+        "Code Quality and Refactoring",
+        "Continuous Integration and Deployment"
+      ],
+      "syllabus": "/documents/syllabi/cs301-software-engineering.pdf"
+    },
+    {
+      "id": 2,
+      "code": "CS302",
+      "name": "Database Management Systems",
+      "level": "Undergraduate",
+      "credits": 4,
+      "description": "In-depth exploration of relational database concepts, SQL programming, database design principles, transaction management, and performance optimization. Hands-on experience with enterprise database systems and NoSQL alternatives.",
+      "learningOutcomes": [
+        "Design normalized database schemas following best practices",
+        "Write complex SQL queries for data manipulation and analysis",
+        "Implement database transactions with ACID properties",
+        "Optimize database performance through indexing and query tuning",
+        "Understand database security and access control mechanisms",
+        "Compare relational and NoSQL database paradigms",
+        "Design and implement database-driven web applications"
+      ],
+      "topics": [
+        "Relational Database Fundamentals",
+        "Entity-Relationship Modeling",
+        "Database Normalization (1NF to BCNF)",
+        "SQL Query Language (DDL, DML, DCL)",
+        "Advanced SQL: Joins, Subqueries, Views, Stored Procedures",
+        "Transaction Management and Concurrency Control",
+        "Database Indexing and Query Optimization",
+        "NoSQL Databases: MongoDB, Redis",
+        "Database Security and User Management"
+      ],
+      "syllabus": "/documents/syllabi/cs302-database-management.pdf"
+    },
+    {
+      "id": 3,
+      "code": "CS401",
+      "name": "Web Technologies",
+      "level": "Undergraduate",
+      "credits": 3,
+      "description": "Modern web development covering both frontend and backend technologies. Students build full-stack applications using contemporary frameworks, implement RESTful APIs, and learn responsive design principles and security best practices.",
+      "learningOutcomes": [
+        "Develop responsive, accessible web interfaces using HTML5, CSS3, and JavaScript",
+        "Build dynamic single-page applications with React or Vue.js",
+        "Implement server-side applications using Node.js or PHP frameworks",
+        "Design and consume RESTful APIs",
+        "Apply web security principles and prevent common vulnerabilities",
+        "Optimize web application performance and loading times",
+        "Deploy and maintain web applications on cloud platforms"
+      ],
+      "topics": [
+        "HTML5 Semantic Markup and Accessibility",
+        "CSS3, Flexbox, and Grid Layout Systems",
+        "JavaScript ES6+ and DOM Manipulation",
+        "Frontend Frameworks: React.js, Vue.js",
+        "Backend Development: Node.js, Express, PHP Laravel",
+        "RESTful API Design and Implementation",
+        "Authentication and Authorization (JWT, OAuth)",
+        "Web Security: XSS, CSRF, SQL Injection Prevention",
+        "Performance Optimization and Caching Strategies",
+        "Deployment: Docker, CI/CD, Cloud Hosting"
+      ],
+      "syllabus": "/documents/syllabi/cs401-web-technologies.pdf"
+    },
+    {
+      "id": 4,
+      "code": "CS201",
+      "name": "System Analysis and Design",
+      "level": "Undergraduate",
+      "credits": 3,
+      "description": "Systematic approach to analyzing organizational requirements and designing information systems. Covers methodologies, modeling techniques, and tools for developing business solutions that align with organizational goals.",
+      "learningOutcomes": [
+        "Conduct comprehensive systems analysis and feasibility studies",
+        "Gather and document user requirements effectively",
+        "Create process models using DFDs and activity diagrams",
+        "Design system architectures and component interactions",
+        "Apply structured and object-oriented analysis techniques",
+        "Evaluate alternative system designs and make informed decisions",
+        "Manage system implementation and change processes"
+      ],
+      "topics": [
+        "Systems Development Life Cycle",
+        "Requirements Engineering",
+        "Data Flow Diagrams (DFD)",
+        "Use Case Modeling",
+        "Class Diagrams and Sequence Diagrams",
+        "System Architecture Design",
+        "User Interface Design Principles",
+        "System Testing and Validation",
+        "Project Management Fundamentals"
+      ],
+      "syllabus": "/documents/syllabi/cs201-system-analysis.pdf"
+    }
+  ]
+}

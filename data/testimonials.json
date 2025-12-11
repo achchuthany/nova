@@ -1,0 +1,64 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Sutharshan Rajendran",
+      "role": "Software Engineer at IFS",
+      "avatar": "/images/testimonials/student-1.jpg",
+      "content": "Mr. Achchuthan's teaching methodology transformed my understanding of software engineering. His real-world project examples and hands-on approach prepared me exceptionally well for my career. The Student Information System project he mentored became a cornerstone of my portfolio.",
+      "rating": 5,
+      "course": "Software Engineering",
+      "year": 2022
+    },
+    {
+      "id": 2,
+      "name": "Priyanka Sivakumar",
+      "role": "Full-Stack Developer at Virtusa",
+      "avatar": "/images/testimonials/student-2.jpg",
+      "content": "The Web Technologies course taught by Mr. Achchuthan gave me industry-relevant skills that I use daily in my professional work. His passion for teaching and deep technical knowledge created an inspiring learning environment. Highly recommend his courses to any aspiring developer.",
+      "rating": 5,
+      "course": "Web Technologies",
+      "year": 2023
+    },
+    {
+      "id": 3,
+      "name": "Karthik Mayooran",
+      "role": "Database Administrator at WSO2",
+      "avatar": "/images/testimonials/student-3.jpg",
+      "content": "Mr. Achchuthan's Database Management course provided a solid foundation that continues to benefit my career. His ability to explain complex concepts clearly and his emphasis on best practices set his teaching apart. The practical assignments were particularly valuable.",
+      "rating": 5,
+      "course": "Database Management Systems",
+      "year": 2021
+    },
+    {
+      "id": 4,
+      "name": "Niroshan Thillainathan",
+      "role": "Systems Analyst at LSEG Technology",
+      "avatar": "/images/testimonials/student-4.jpg",
+      "content": "Working with Mr. Achchuthan on my capstone project was an incredible learning experience. His guidance in system architecture and design principles helped me deliver a professional-grade solution. He's not just a teacher but a mentor who genuinely cares about student success.",
+      "rating": 5,
+      "course": "System Analysis and Design",
+      "year": 2022
+    },
+    {
+      "id": 5,
+      "name": "Kavitha Sivarajah",
+      "role": "Frontend Developer at Zone24x7",
+      "avatar": "/images/testimonials/student-5.jpg",
+      "content": "Mr. Achchuthan's courses combine theoretical depth with practical application perfectly. His feedback on assignments was always constructive and helped me grow as a developer. The skills I learned continue to be relevant in my professional work.",
+      "rating": 5,
+      "course": "Web Technologies",
+      "year": 2023
+    },
+    {
+      "id": 6,
+      "name": "Dr. Mahendran Rathakrishnan",
+      "role": "Senior Lecturer, University of Jaffna",
+      "avatar": "/images/testimonials/colleague-1.jpg",
+      "content": "Achchuthan is an exceptional colleague who brings both technical excellence and pedagogical innovation to our department. His contributions to curriculum development and his dedication to student success have significantly enhanced our academic programs. A valuable asset to our institution.",
+      "rating": 5,
+      "course": null,
+      "year": 2023
+    }
+  ]
+}

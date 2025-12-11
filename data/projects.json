@@ -1,0 +1,120 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "slug": "student-information-system",
+      "title": "Student Information System (SIS)",
+      "shortDescription": "Comprehensive student management platform streamlining academic administration for 5000+ students",
+      "longDescription": "A robust, scalable student information system architected to modernize university administration processes. This enterprise-grade solution encompasses student enrollment, academic records management, course registration, grade tracking, and comprehensive reporting capabilities. Built with performance and reliability at its core, the system handles high concurrent loads while maintaining data integrity and security.",
+      "category": "Enterprise Systems",
+      "technologies": ["PHP", "MySQL", "JavaScript", "Bootstrap", "jQuery", "Apache"],
+      "features": [
+        "Student enrollment and profile management",
+        "Real-time grade tracking and transcript generation",
+        "Automated course registration system",
+        "Faculty portal for grade submission",
+        "Advanced reporting and analytics dashboard",
+        "Role-based access control (RBAC)",
+        "SMS and email notification system",
+        "Academic calendar management"
+      ],
+      "image": "/images/projects/sis-hero.jpg",
+      "screenshots": [
+        "/images/projects/sis-1.jpg",
+        "/images/projects/sis-2.jpg",
+        "/images/projects/sis-3.jpg"
+      ],
+      "liveUrl": "https://sis.jfn.ac.lk",
+      "githubUrl": null,
+      "startDate": "2020-01",
+      "endDate": null,
+      "status": "Active",
+      "impact": {
+        "users": "5000+ active students",
+        "efficiency": "70% reduction in administrative processing time",
+        "uptime": "99.5% system availability",
+        "adoption": "100% faculty adoption rate"
+      },
+      "problem": "The university faced significant challenges with manual student record management, leading to errors, delays, and inefficient resource allocation. Paper-based processes caused bottlenecks during peak enrollment periods.",
+      "solution": "Designed and implemented a centralized digital platform that automates student lifecycle management, from admission to graduation. The system provides real-time data access, automated workflows, and comprehensive audit trails.",
+      "learnings": "Scaling a mission-critical system requires careful database optimization, implementing caching strategies, and designing for graceful degradation. User training and change management are as crucial as technical excellence."
+    },
+    {
+      "id": 2,
+      "slug": "online-enrollment-system",
+      "title": "Online Enrollment System",
+      "shortDescription": "Digital transformation of university enrollment process with automated workflow management",
+      "longDescription": "A modern web application that revolutionized the traditional enrollment process by enabling online applications, document submission, and automated approval workflows. The system integrates seamlessly with existing university infrastructure while providing a superior user experience for prospective students.",
+      "category": "Web Applications",
+      "technologies": ["PHP", "Laravel", "MySQL", "Vue.js", "Tailwind CSS", "Redis"],
+      "features": [
+        "Multi-step application form with validation",
+        "Document upload and verification system",
+        "Automated applicant screening algorithms",
+        "Email notification workflow",
+        "Payment gateway integration",
+        "Admin dashboard for application management",
+        "Analytics and reporting tools",
+        "Mobile-responsive design"
+      ],
+      "image": "/images/projects/enrollment-hero.jpg",
+      "screenshots": [
+        "/images/projects/enrollment-1.jpg",
+        "/images/projects/enrollment-2.jpg"
+      ],
+      "liveUrl": "https://enrollment.jfn.ac.lk",
+      "githubUrl": null,
+      "startDate": "2019-06",
+      "endDate": "2020-03",
+      "status": "Active",
+      "impact": {
+        "users": "3000+ applications processed annually",
+        "efficiency": "85% faster application processing",
+        "satisfaction": "92% applicant satisfaction rate",
+        "cost": "60% reduction in operational costs"
+      },
+      "problem": "Manual enrollment processes were time-consuming, error-prone, and provided poor visibility into application status for both applicants and administrators.",
+      "solution": "Developed a comprehensive online enrollment platform with intelligent form validation, automated document verification, and real-time status tracking. Implemented a queue-based notification system for timely updates.",
+      "learnings": "Building public-facing systems requires exceptional attention to accessibility, security, and user experience. Load testing and performance optimization are essential before peak enrollment seasons."
+    },
+    {
+      "id": 3,
+      "slug": "macosis-mobile-app",
+      "title": "MaCoSIS Mobile Application",
+      "shortDescription": "Native mobile app providing students instant access to academic information and services",
+      "longDescription": "A feature-rich mobile application designed to empower students with on-the-go access to their academic data, course materials, announcements, and university services. Built with performance and offline capabilities in mind.",
+      "category": "Mobile Apps",
+      "technologies": ["React Native", "Firebase", "Redux", "Node.js", "Express", "MongoDB"],
+      "features": [
+        "Real-time grade and GPA tracking",
+        "Course schedule with calendar integration",
+        "Push notifications for announcements",
+        "Digital student ID card",
+        "Library book search and renewal",
+        "Campus map and navigation",
+        "Exam timetable and results",
+        "Offline data caching"
+      ],
+      "image": "/images/projects/macosis-hero.jpg",
+      "screenshots": [
+        "/images/projects/macosis-1.jpg",
+        "/images/projects/macosis-2.jpg",
+        "/images/projects/macosis-3.jpg"
+      ],
+      "liveUrl": null,
+      "githubUrl": "https://github.com/achchuthany/macosis-app",
+      "startDate": "2021-01",
+      "endDate": "2021-08",
+      "status": "Active",
+      "impact": {
+        "users": "4000+ downloads",
+        "engagement": "80% monthly active users",
+        "rating": "4.5/5 app store rating",
+        "support": "50% reduction in support requests"
+      },
+      "problem": "Students lacked convenient mobile access to critical academic information, leading to missed deadlines and frequent visits to administrative offices.",
+      "solution": "Developed a cross-platform mobile application that consolidates student services into a unified, intuitive interface. Implemented robust caching for offline access and push notifications for time-sensitive updates.",
+      "learnings": "Mobile-first design principles and progressive web app features significantly enhance user engagement. Battery optimization and data usage considerations are critical for student adoption in resource-constrained environments."
+    }
+  ]
+}
